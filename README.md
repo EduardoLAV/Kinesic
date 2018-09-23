@@ -1,3 +1,3 @@
 # Kinesic
 Platform to develop medical applications using biosignals
-![alt text](http://musicamalaga.com/wp-content/uploads/2017/08/kinesic.png)
+![alt text](https://github.com/EduardoLAV/Kinesic/blob/master/10_Management/10_Planning/Kinesic_Timeline.PNG)
