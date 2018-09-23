@@ -1,0 +1,1 @@
+Requests for quotation will be saved here independently of the application area: analog and digital electronics, web page, cloud application, etc.

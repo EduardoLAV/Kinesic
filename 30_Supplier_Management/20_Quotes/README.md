@@ -1,0 +1,1 @@
+Quotes received from suppliers to be saved here
